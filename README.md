@@ -1,1 +1,3 @@
-# se_project_coffeeshop
+.editorconfig
+.gitignore
+.prettierignore
