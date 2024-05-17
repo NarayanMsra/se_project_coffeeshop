@@ -1,3 +1,1 @@
-.editorconfig
-.gitignore
-.prettierignore
+
