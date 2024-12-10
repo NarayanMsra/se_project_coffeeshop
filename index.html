@@ -120,7 +120,7 @@
           <h2 class="reservation__title">Book a table</h2>
           <form class="reservation__form form">
             <fieldset class="form__fieldset">
-              <lable for="name-input" class="form__lable">
+              <label for="name-input" class="form__label">
                 Name *
                 <input
                   class="form__input"
@@ -129,9 +129,9 @@
                   placeholder="Name Surname"
                   required
                 />
-              </lable>
+              </label>
 
-              <lable for="number-input" class="form__lable">
+              <label for="number-input" class="form__label">
                 Number of guests *
                 <input
                   class="form__input"
@@ -142,9 +142,9 @@
                   placeholder="1-8"
                   required
                 />
-              </lable>
+              </label>
 
-              <lable for="ddtt-input" class="form__lable">
+              <label for="ddtt-input" class="form__label">
                 Date & time *
                 <input
                   class="form__input"
@@ -152,9 +152,9 @@
                   type="datetime-local"
                   required
                 />
-              </lable>
+              </label>
 
-              <lable for="email-input" class="form__lable">
+              <label for="email-input" class="form__label">
                 Your email *
                 <input
                   class="form__input"
@@ -163,14 +163,17 @@
                   placeholder="email@email.com"
                   required
                 />
-              </lable>
+              </label>
             </fieldset>
 
             <button class="form__button">Book a table</button>
-            <lable for="check-input" class="form__lable form__lable_type_checkbox">
+            <label
+              for="check-input"
+              class="form__label form__label_type_checkbox"
+            >
               <input class="form__checkbox" id="check-input" type="checkbox" />
               I agree with the terms of use
-            </lable>
+            </label>
           </form>
         </section>
         <section class="menu" id="menu"></section>
