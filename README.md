@@ -27,8 +27,27 @@ This project is a simple website for a Coffee Shop. It provides information abou
 |-- pages/
 |   -- index.css            Custom CSS file
 |-- images/                  Images used in the site
-|-- favicon.ico              Favicon
+|.
+|-- index.html               Main HTML file
+|-- vendor/
+|   `-- normalize.css        CSS reset file
+|-- pages/
+|   `-- index.css            Custom CSS file
+|-- images/                  Images used in the site
+|--block/                    CSS file for different folder
+    `-- about.css
+    `-- card.css
+    `-- footer.css
+    `-- form.css
+    `-- header.css
+    `-- menu.css
+    `-- nav.css
+    `-- page.css
+    `-- recipes.css
+    `-- reservation.css
 
+|-- favicon.ico              Favicon
+```
 
 # About me.
 My name is Narayan Mishra. I have a Bachelor's degree in Electrical engineering with a focus on Biomedical Engineering and a math minor. Recently, I have been working on a Software engineering course from Triple Ten Bootcamp. This is a second project based on Sprint 2 on Advanced HTML and CSS. 
