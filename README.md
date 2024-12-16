@@ -21,18 +21,17 @@ This project is a simple website for a Coffee Shop. It provides information abou
 3. Explore the site to view the menu, and recipes, and book a table.
 
  # Directory Structure
-|__-- index.html               Main HTML file
-|__-- vendor/
-|   -- normalize.css        CSS reset file
-|-- pages/
-|   -- index.css            Custom CSS file
-|-- images/                  Images used in the site
-|.
 |-- index.html               Main HTML file
 |-- vendor/
-|   `-- normalize.css        CSS reset file
+|   `-- normalize.css        CSS reset file`
 |-- pages/
-|   `-- index.css            Custom CSS file
+|   `-- index.css            Custom CSS file`
+|-- images/                  Images used in the site
+|-- index.html               Main HTML file
+|-- vendor/
+|   `-- normalize.css        CSS reset filen`
+|-- pages/
+|   `-- index.css            Custom CSS file`
 |-- images/                  Images used in the site
 |--block/                    CSS file for different folder
     `-- about.css
@@ -47,7 +46,6 @@ This project is a simple website for a Coffee Shop. It provides information abou
     `-- reservation.css
 
 |-- favicon.ico              Favicon
-```
 
 # About me.
 My name is Narayan Mishra. I have a Bachelor's degree in Electrical engineering with a focus on Biomedical Engineering and a math minor. Recently, I have been working on a Software engineering course from Triple Ten Bootcamp. This is a second project based on Sprint 2 on Advanced HTML and CSS. 
