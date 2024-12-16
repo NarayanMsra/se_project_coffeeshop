@@ -21,8 +21,8 @@ This project is a simple website for a Coffee Shop. It provides information abou
 3. Explore the site to view the menu, and recipes, and book a table.
 
  # Directory Structure
-|-- index.html               Main HTML file
-|-- vendor/
+|__-- index.html               Main HTML file
+|__-- vendor/
 |   -- normalize.css        CSS reset file
 |-- pages/
 |   -- index.css            Custom CSS file
