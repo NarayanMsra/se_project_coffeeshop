@@ -16,7 +16,7 @@ This project is a simple website for a Coffee Shop. It provides information abou
 - HTML5: For structure and content.
 - CSS: For styling (normalize.css and custom styles).
 - Google Fonts: To enhance typography.
-- YouTube Embeds: For recipe videos.
+- YouTube : For recipe videos.
 
  How to Use
 
@@ -25,7 +25,7 @@ This project is a simple website for a Coffee Shop. It provides information abou
 3. Explore the site to view the menu, and recipes, and book a table.
 
  Directory Structure
-//
+
 |-- index.html               Main HTML file
 |-- vendor/
 |   -- normalize.css        CSS reset file
@@ -33,7 +33,7 @@ This project is a simple website for a Coffee Shop. It provides information abou
 |   -- index.css            Custom CSS file
 |-- images/                  Images used in the site
 |-- favicon.ico              Favicon
-//
+
 
 About me.
 My name is Narayan Mishra. I have a Bachelor's degree in Electrical engineering with a focus on Biomedical Engineering and a math minor. Recently, I have been working on a Software engineering course from Triple Ten Bootcamp. This is a second project based on Sprint 2 on Advanced HTML and CSS. 
