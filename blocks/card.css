@@ -9,15 +9,12 @@
   flex-direction: column;
   gap: 16px;
   line-height: 20px;
-  font-family: "Noto Serif", serif;
-  font-style: normal;
-  font-weight: normal;
+  font-family: "Noto Serif", "Time New Roman", serif;
 }
 
 .card__title {
   margin: 0 0 32px;
-  font-family: "Inter", sans-serif;
-  font-style: normal;
+  font-family: "Inter", Arial, sans-serif;
   font-weight: bold;
   font-size: 20px;
   line-height: 30px;
