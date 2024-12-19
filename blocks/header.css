@@ -18,6 +18,7 @@
   line-height: 72px;
   letter-spacing: -0.6px;
   max-width: 729px;
+  margin: 0;
 }
 
 .header__description {
