@@ -18,7 +18,7 @@
   line-height: 72px;
   letter-spacing: -0.6px;
   max-width: 729px;
-  margin: 0;
+  margin: 183px 28px;
 }
 
 .header__description {
@@ -26,7 +26,7 @@
   font-size: 20px;
   line-height: 30px;
   max-width: 683px;
-  margin: 183px 28px;
+  margin: 0;
 }
 
 .header__image {
